@@ -15,7 +15,8 @@ body {
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLXaVRy_PdLrqNWMlgCjix9Oxm9uHG4gmeHg&s);
 }
 h4{color:aliceblue;
-  background-color:black}
+  background-color:black
+  text-align:center}
 .button{background-color: aquamarine;
 color: navy;}
 .button:hover{background-color: aquamarine;
