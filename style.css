@@ -4,7 +4,8 @@ h1 {
   background-color: aliceblue;
   color: black;
   text-align: center;
-    font-family:cursive
+    font-family:cursive;
+  font-size:35px
 }
 }
 h1:hover {
@@ -22,9 +23,12 @@ h4{color:aliceblue;
 .button{background-color: aquamarine;
 color: navy;
 font-family:cursive
+font-size:25px
 }}
 .button:hover{
   background-color: navy;
 color: aquamarine;
-  font-family:cursive
+  font-family:cursive;
+  padding:10px;
+  font size:30px
 }
