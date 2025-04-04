@@ -22,13 +22,13 @@ h4{color:aliceblue;
   text-align:center}
 .button{background-color: aquamarine;
 color: navy;
-font-family:cursive
-font-size:25px
+font-family:cursive;
+font-size:27px
 }}
 .button:hover{
   background-color: navy;
 color: aquamarine;
   font-family:cursive;
   padding:10px;
-  font size:30px
+  font-size:30px;
 }
