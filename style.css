@@ -32,3 +32,29 @@ color: aquamarine;
   padding:10px;
   font-size:30px;
 }
+
+
+
+/* Hover styles for buttons */
+button, .btn {
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+button:hover, .btn:hover {
+  transform: scale(1.05);
+  background-color: #4CAF50; /* Example hover color */
+  color: white;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+/* Hover styles for h1 */
+h1 {
+  transition: all 0.3s ease;
+}
+
+h1:hover {
+  color: #ff5733; /* Example hover color */
+  text-decoration: underline;
+  transform: translateY(-2px);
+}
